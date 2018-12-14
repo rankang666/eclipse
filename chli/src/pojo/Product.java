@@ -7,11 +7,7 @@ private  int pid;
 private String pname;
 private double price;
 public int getPid() {
-<<<<<<< HEAD
 	System.out.println("tortoisegit");
-=======
-	hehe
->>>>>>> branch 'master' of https://github.com/rankang666/eclipse.git
 	return pid;
 }
 public void setPid(int pid) {
