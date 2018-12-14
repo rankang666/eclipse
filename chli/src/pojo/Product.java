@@ -7,7 +7,6 @@ private  int pid;
 private String pname;
 private double price;
 public int getPid() {
-	oo
 	return pid;
 }
 public void setPid(int pid) {
